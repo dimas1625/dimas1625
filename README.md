@@ -8,16 +8,15 @@
 
 * 🎓 I am an **Informatics Engineering student** at Politeknik Negeri Malang.
 * 🎯 I am currently focused on expanding my knowledge and skills in **Web Development**.
-* 🌱 I have a deep interest in **AI in interface development (AI Front-End)** and am studying how this technology can be integrated to enhance user experience[cite: 7].
+* 🌱 I have a deep interest in **AI in interface development (AI Front-End)** and am studying how this technology can be integrated to enhance user experience.
 * 🤝 I am open to collaborating on **Web Development** and **UI/UX Design** projects.
-* 💬 Feel free to ask me about my experience in **Wireframing**, **Prototyping**, or **Laravel** projects.
+* 💬 Feel free to ask me about my experience in **PBL projects**, **database design**, or building **functional web applications**.
 * ⚡ **Fun fact**: I completed a Network Technician Internship at Dinas Komunikasi dan Informatika - Jombang.
 
 ---
 
 ### 🛠️ Core Skills & Tools
 
-Here is a list of my main skills and tools:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,mysql,html,css,tailwindcss,bootstrap,figma,git,github,vscode" alt="Core Skills: Laravel, PHP, MySQL, HTML, CSS, Tailwind CSS, Bootstrap, Figma, Git, GitHub, VSCode" />
@@ -27,7 +26,7 @@ Here is a list of my main skills and tools:
 
 ### 🏆 Achievement
 
-* **Copyrighted Web-Based Internship Management System**.
+**Copyrighted Web-Based Internship Management System**.
 
 ---
 
