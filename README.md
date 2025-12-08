@@ -24,9 +24,12 @@
 
 ---
 
-### 🏆 Achievement
+### 🚀 Featured Projects
 
-**Copyrighted Web-Based Internship Management System**.
+* **InternSync - Internship Recommendation System (PBL)**
+* **Description:** An internship recommendation system that helps students find suitable internship placements based on their academic profile, skills, and personal preferences. I contributed as a Frontend Developer.
+* **Main Features:** Student data input feature, internship recommendation system, lecturer approval, and internship monitoring.
+* **Technologies:** 'VSCode', `Laravel`, `Bootstrap 5`, 'Datatables', 'phpMyAdmin', 'Laragon'
 
 ---
 
