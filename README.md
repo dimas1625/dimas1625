@@ -1,6 +1,6 @@
 # Hello! I'm Muhammad Dimas Ajie Nugroho 👋
 
-> 💡 An **UI/UX Designer** and **Informatics Engineering student** with a strong enthusiasm for **Web Development** and **Artificial Intelligence (AI)**. I am focused on creating engaging, responsive, and user-friendly web applications.
+> 💡 A UI/UX Designer and Informatics Engineering student with a strong passion for Web Development and Artificial Intelligence (AI). I focus on creating attractive, responsive, and user-friendly web applications. In addition, I have foundational knowledge in networking, including the ability to configure routers and switches.
 
 ---
 
